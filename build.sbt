@@ -14,7 +14,8 @@ libraryDependencies ++= Seq(
   "net.liftweb" % "lift-util_2.9.1" % "2.4"
 )
 
-initialCommands := """import dispatch._"""
+initialCommands := """import dispatch._
+import com.github.arosh.toshokan.Commons._"""
 
 // sbteclipse with source
 // EclipseKeys.withSource := true

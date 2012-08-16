@@ -1,5 +1,6 @@
 package com.github.arosh.toshokan
 
-object Main {
+import scala.io.Codec
 
+object Main {
 }
